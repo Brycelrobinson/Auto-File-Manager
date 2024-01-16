@@ -1,0 +1,115 @@
+Filename: pexels-quintin-gellar-313782.jpg
+Destination: /home/bryce/Pictures/
+Date: Sep-10-2023
+Time Stamp: 20:40:33
+
+Filename: pexels-eberhard-grossgasteiger-1624255.jpg
+Destination: /home/bryce/Pictures/
+Date: Sep-10-2023
+Time Stamp: 20:40:33
+
+Filename: pexels-pixabay-33109.jpg
+Destination: /home/bryce/Pictures/
+Date: Sep-10-2023
+Time Stamp: 20:40:33
+
+Filename: 15daae216cbf588f9bcefb7776f9f0b5.jpg
+Destination: /home/bryce/Pictures/
+Date: Sep-10-2023
+Time Stamp: 20:40:33
+
+Filename: AfricaBackground.jpg
+Destination: /home/bryce/Pictures/
+Date: Sep-10-2023
+Time Stamp: 20:40:33
+
+Filename: fafZfZz.jpeg
+Destination: /home/bryce/Pictures/
+Date: Sep-10-2023
+Time Stamp: 20:40:33
+
+Filename: CPS 410 Requirements and specifications(1).pptx
+Destination: /home/bryce/Documents/
+Date: Sep-10-2023
+Time Stamp: 20:40:48
+
+Filename: CPS 410 Ethics and Teamwork-F23.pptx
+Destination: /home/bryce/Documents/
+Date: Sep-10-2023
+Time Stamp: 20:40:48
+
+Filename: CH. 5, Induction. doc.doc
+Destination: /home/bryce/Documents/
+Date: Sep-10-2023
+Time Stamp: 20:40:48
+
+Filename: CPS 410 HW 1.docx
+Destination: /home/bryce/Documents/
+Date: Sep-10-2023
+Time Stamp: 20:40:48
+
+Filename: CPS 410 HW 1(1).docx
+Destination: /home/bryce/Documents/
+Date: Sep-10-2023
+Time Stamp: 20:40:48
+
+Filename: Lab%201_Misinformation%20in%20the%20news(1).docx_0.odt
+Destination: /home/bryce/Documents/
+Date: Sep-10-2023
+Time Stamp: 20:40:48
+
+Filename: CPS340Lab2F23.pdf
+Destination: /home/bryce/Documents/
+Date: Sep-10-2023
+Time Stamp: 20:40:48
+
+Filename: CPS 410 Lab 2 F23(1).docx
+Destination: /home/bryce/Documents/
+Date: Sep-10-2023
+Time Stamp: 20:40:48
+
+Filename: CPS 410 Lab 2 F23.docx
+Destination: /home/bryce/Documents/
+Date: Sep-10-2023
+Time Stamp: 20:40:48
+
+Filename: CH. 2.Compund Statements.doc
+Destination: /home/bryce/Documents/
+Date: Sep-10-2023
+Time Stamp: 20:40:48
+
+Filename: CPS 410 Team Icebreaker.docx
+Destination: /home/bryce/Documents/
+Date: Sep-10-2023
+Time Stamp: 20:40:48
+
+Filename: CPS 410 Lecture 1-F23.pptx
+Destination: /home/bryce/Documents/
+Date: Sep-10-2023
+Time Stamp: 20:40:48
+
+Filename: Raindrops_Videvo.mp4
+Destination: /home/bryce/Videos/
+Date: Sep-10-2023
+Time Stamp: 20:41:34
+
+Filename: CPS 410 Elevator Lab F23.docx
+Destination: /home/bryce/Documents/
+Date: Sep-11-2023
+Time Stamp: 10:06:59
+
+Filename: B-Using Images in Unity 2D.docx
+Destination: /home/bryce/Documents/
+Date: Sep-11-2023
+Time Stamp: 19:26:57
+
+Filename: boing-6222.mp3
+Destination: /home/bryce/Music/
+Date: Sep-12-2023
+Time Stamp: 11:26:07
+
+Filename: Chapter 2.pptx
+Destination: /home/bryce/Documents/
+Date: Sep-13-2023
+Time Stamp: 14:15:11
+
